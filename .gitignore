@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#daniel Kiwi API
+config.py
+
+#Apple File
+.DS_Store
+**/.DS_Store
